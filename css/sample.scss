@@ -473,6 +473,9 @@ h1{
 #contents{
   padding-top: 20px;
   #main{
+    .company_title{
+      margin-bottom:0;
+    }
     h2{
      color:$blue1;
      border-bottom: 3px solid $blue1;
