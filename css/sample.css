@@ -283,6 +283,13 @@ h1 {
         display: block;
         font-weight: bold;
         margin-bottom: 3px; }
+  #contents #main th, #contents #main td {
+    padding: 20px 0;
+    color: #626262;
+    font-size: 14px;
+    font-size: 1.4rem; }
+  #contents #main th {
+    padding-right: 20px; }
   @media (min-width: 551px) {
     #contents {
       padding-top: 35px;
